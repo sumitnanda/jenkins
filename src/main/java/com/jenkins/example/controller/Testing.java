@@ -10,7 +10,7 @@ public class Testing {
 	@GetMapping(value = "/welcome")
 	public String testing() {
 		
-		return "Working fine commit pipeline 200";
+		return "Working fine commit pipeline new docker";
 	}
 
 }
